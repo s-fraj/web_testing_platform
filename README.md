@@ -1,4 +1,4 @@
-# 🛡️ mr7.ai — AI Security Research Platform
+# 🛡️  Security Research Platform
 
 Full-stack security scanner: FastAPI + MySQL backend, React + Vite frontend.
 
